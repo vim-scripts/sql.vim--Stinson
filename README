@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3702
+
+Better SQL Syntax highlighting with errors.
+
+Highlights common error conditions. Only highlights types inside "CREATE TABLE" statements. Additions for SQLite.
+
+Based on existing SQL Syntax files.
+
+This and more can be found at: https://github.com/LStinson/Vim
